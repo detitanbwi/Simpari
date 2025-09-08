@@ -1,0 +1,193 @@
+{
+    "success": true,
+    "pemungut": {
+        "id": 2,
+        "nama": "Pemungut 2",
+        "target_nominal": 8652957,
+        "sisa_tagihan": 3353937,
+        "target_tercapai": 5299020,
+        "persentase": 61.24
+    },
+    "masyarakat": [
+        {
+            "tagihan_id": 20,
+            "nop": "27.78.501.738.814-9207.2",
+            "jumlah": 772867,
+            "sisa_tagihan": 490784,
+            "keterangan": "Tagihan pajak 1",
+            "tanggal_tagihan": "2025-08-19",
+            "tanggal_lunas": null,
+            "nama": "Masyarakat 11",
+            "alamat": "Jl. Masyarakat No. 11, Desa Sukamaju",
+            "status_lunas": 0
+        },
+        {
+            "tagihan_id": 21,
+            "nop": "19.11.037.086.144-5560.5",
+            "jumlah": 442360,
+            "sisa_tagihan": 0,
+            "keterangan": "Tagihan pajak 1",
+            "tanggal_tagihan": "2025-08-21",
+            "tanggal_lunas": "2025-09-06",
+            "nama": "Masyarakat 12",
+            "alamat": "Jl. Masyarakat No. 12, Desa Sukamaju",
+            "status_lunas": 1
+        },
+        {
+            "tagihan_id": 22,
+            "nop": "25.23.932.327.562-7816.9",
+            "jumlah": 714862,
+            "sisa_tagihan": 780,
+            "keterangan": "Tagihan pajak 1",
+            "tanggal_tagihan": "2025-07-14",
+            "tanggal_lunas": null,
+            "nama": "Masyarakat 13",
+            "alamat": "Jl. Masyarakat No. 13, Desa Sukamaju",
+            "status_lunas": 0
+        },
+        {
+            "tagihan_id": 23,
+            "nop": "06.36.271.222.663-7901.4",
+            "jumlah": 826776,
+            "sisa_tagihan": 0,
+            "keterangan": "Tagihan pajak 2",
+            "tanggal_tagihan": "2025-08-07",
+            "tanggal_lunas": "2025-09-06",
+            "nama": "Masyarakat 13",
+            "alamat": "Jl. Masyarakat No. 13, Desa Sukamaju",
+            "status_lunas": 1
+        },
+        {
+            "tagihan_id": 24,
+            "nop": "04.21.965.535.481-6682.5",
+            "jumlah": 376076,
+            "sisa_tagihan": 376076,
+            "keterangan": "Tagihan pajak 1",
+            "tanggal_tagihan": "2025-07-30",
+            "tanggal_lunas": null,
+            "nama": "Masyarakat 14",
+            "alamat": "Jl. Masyarakat No. 14, Desa Sukamaju",
+            "status_lunas": 0
+        },
+        {
+            "tagihan_id": 25,
+            "nop": "09.67.188.593.240-9333.7",
+            "jumlah": 733932,
+            "sisa_tagihan": 733932,
+            "keterangan": "Tagihan pajak 1",
+            "tanggal_tagihan": "2025-08-23",
+            "tanggal_lunas": null,
+            "nama": "Masyarakat 15",
+            "alamat": "Jl. Masyarakat No. 15, Desa Sukamaju",
+            "status_lunas": 0
+        },
+        {
+            "tagihan_id": 26,
+            "nop": "07.45.179.308.052-5990.8",
+            "jumlah": 951035,
+            "sisa_tagihan": 0,
+            "keterangan": "Tagihan pajak 1",
+            "tanggal_tagihan": "2025-07-31",
+            "tanggal_lunas": "2025-09-06",
+            "nama": "Masyarakat 16",
+            "alamat": "Jl. Masyarakat No. 16, Desa Sukamaju",
+            "status_lunas": 1
+        },
+        {
+            "tagihan_id": 27,
+            "nop": "21.07.745.015.560-0622.9",
+            "jumlah": 270199,
+            "sisa_tagihan": 204350,
+            "keterangan": "Tagihan pajak 2",
+            "tanggal_tagihan": "2025-08-20",
+            "tanggal_lunas": null,
+            "nama": "Masyarakat 16",
+            "alamat": "Jl. Masyarakat No. 16, Desa Sukamaju",
+            "status_lunas": 0
+        },
+        {
+            "tagihan_id": 28,
+            "nop": "30.22.044.388.518-8641.1",
+            "jumlah": 683881,
+            "sisa_tagihan": 408680,
+            "keterangan": "Tagihan pajak 3",
+            "tanggal_tagihan": "2025-07-28",
+            "tanggal_lunas": null,
+            "nama": "Masyarakat 16",
+            "alamat": "Jl. Masyarakat No. 16, Desa Sukamaju",
+            "status_lunas": 0
+        },
+        {
+            "tagihan_id": 29,
+            "nop": "05.16.977.980.237-4539.9",
+            "jumlah": 276086,
+            "sisa_tagihan": 0,
+            "keterangan": "Tagihan pajak 1",
+            "tanggal_tagihan": "2025-07-21",
+            "tanggal_lunas": "2025-09-06",
+            "nama": "Masyarakat 17",
+            "alamat": "Jl. Masyarakat No. 17, Desa Sukamaju",
+            "status_lunas": 1
+        },
+        {
+            "tagihan_id": 30,
+            "nop": "25.09.388.547.052-4186.1",
+            "jumlah": 752197,
+            "sisa_tagihan": 0,
+            "keterangan": "Tagihan pajak 2",
+            "tanggal_tagihan": "2025-07-23",
+            "tanggal_lunas": "2025-09-06",
+            "nama": "Masyarakat 17",
+            "alamat": "Jl. Masyarakat No. 17, Desa Sukamaju",
+            "status_lunas": 1
+        },
+        {
+            "tagihan_id": 31,
+            "nop": "19.44.506.065.362-9855.8",
+            "jumlah": 489481,
+            "sisa_tagihan": 0,
+            "keterangan": "Tagihan pajak 3",
+            "tanggal_tagihan": "2025-07-07",
+            "tanggal_lunas": "2025-09-06",
+            "nama": "Masyarakat 17",
+            "alamat": "Jl. Masyarakat No. 17, Desa Sukamaju",
+            "status_lunas": 1
+        },
+        {
+            "tagihan_id": 32,
+            "nop": "15.78.123.672.271-3494.3",
+            "jumlah": 536317,
+            "sisa_tagihan": 536317,
+            "keterangan": "Tagihan pajak 1",
+            "tanggal_tagihan": "2025-07-05",
+            "tanggal_lunas": null,
+            "nama": "Masyarakat 18",
+            "alamat": "Jl. Masyarakat No. 18, Desa Sukamaju",
+            "status_lunas": 0
+        },
+        {
+            "tagihan_id": 33,
+            "nop": "34.67.383.454.148-8772.5",
+            "jumlah": 320441,
+            "sisa_tagihan": 294176,
+            "keterangan": "Tagihan pajak 1",
+            "tanggal_tagihan": "2025-07-19",
+            "tanggal_lunas": null,
+            "nama": "Masyarakat 19",
+            "alamat": "Jl. Masyarakat No. 19, Desa Sukamaju",
+            "status_lunas": 0
+        },
+        {
+            "tagihan_id": 34,
+            "nop": "08.46.522.479.414-3309.7",
+            "jumlah": 506447,
+            "sisa_tagihan": 308842,
+            "keterangan": "Tagihan pajak 1",
+            "tanggal_tagihan": "2025-08-11",
+            "tanggal_lunas": "2025-09-04",
+            "nama": "Masyarakat 20",
+            "alamat": "Jl. Masyarakat No. 20, Desa Sukamaju",
+            "status_lunas": 0
+        }
+    ]
+}
